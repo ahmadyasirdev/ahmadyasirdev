@@ -16,7 +16,7 @@
    <a href="https://www.instagram.com/mianahmadyasir781">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/MIAN YASIR">
+   <a href="https://web.facebook.com/mian.yasir.96387189">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/ahmadyasirdev/">
@@ -29,7 +29,7 @@
 
 ![https://github.com/ahmadyasirdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad Yasirdev&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiftaj&theme=dark)
 
 
 <br>
