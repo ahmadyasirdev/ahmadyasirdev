@@ -3,13 +3,25 @@
 <h2>🚀 About Me</h2>
 <p> I am a passionate MERN Stack Developer and Flutter Developer who helps businesses build modern, scalable, and user-friendly web and mobile applications. I focus on clean code, performance, and best development practices.</p>
 
+🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
+Frontend: React, HTML, CSS, JavaScript, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Mobile Development: Flutter, Dart
+Tools: Git, GitHub, VS Code
+
+
+
+- 🔭 I’m currently working on Advanced React patterns
+- 🌱 I’m currently learning Backend optimisation with Node.js
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: ahmadyasirofficial5@gmail.com
 - 😄 My website: https://thetechbrothers.net
 - ⚡ Fun fact: I'm comming to teen
+
+
+
   
 ### Connect with me:
 <div id="badges">
