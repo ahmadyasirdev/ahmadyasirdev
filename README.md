@@ -1,5 +1,6 @@
- <h1 align="center">Hi 👋, I'm Ahmad Yasirdev</h1>
+ <h1 align="center">Hi 👋, Hi, I'm a MERN Stack & Flutter Developer</h1>
 
+<h2>🚀 About Me</h2>
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
