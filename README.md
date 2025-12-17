@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm a MERN Stack & Flutter Developer</h1>
  
-<1h>🚀 About Me</h1>
+<h1>🚀 About Me </h1>
 <p> I am a passionate MERN Stack Developer and Flutter Developer who helps businesses build modern, scalable, and user-friendly web and mobile applications. I focus on clean code, performance, and best development practices.</p>
 
 <h1>🛠️ Skills & Technologies</h1>
