@@ -3,7 +3,7 @@
 <h2>🚀 About Me</h2>
 <p> I am a passionate MERN Stack Developer and Flutter Developer who helps businesses build modern, scalable, and user-friendly web and mobile applications. I focus on clean code, performance, and best development practices.</p>
 
-🛠️ Skills & Technologies
+<h1>🛠️ Skills & Technologies</h1>
 
 Frontend: React, HTML, CSS, JavaScript, Tailwind CSS
 Backend: Node.js, Express.js
