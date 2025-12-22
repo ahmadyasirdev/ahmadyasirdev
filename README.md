@@ -51,6 +51,23 @@ Tools: Git, GitHub, VS Code
 [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
+
+
 
 
 
