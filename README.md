@@ -1,9 +1,9 @@
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="readme-typing-svg.demolab.com+👋,+I'm+a+MERN+Stack+Developer;And+a+Flutter+Developer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
   </a>
 </h1>
+
 
 
 <h1>🚀 About Me </h1>
