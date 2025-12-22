@@ -1,12 +1,11 @@
 
 <h1 align="center">
-  <a href="git.io">
+  <a href="github.com">
     <img src="readme-typing-svg.herokuapp.com+👋,+I'm+a+MERN+Stack+Developer;And+a+Flutter+Developer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
   </a>
 </h1>
-<p align="center">
-  <img src="capsule-render.vercel.app" />
-</p>
+
+
 
 <h1>🚀 About Me </h1>
 <p> I am a passionate MERN Stack Developer and Flutter Developer who helps businesses build modern, scalable, and user-friendly web and mobile applications. I focus on clean code, performance, and best development practices.</p>
