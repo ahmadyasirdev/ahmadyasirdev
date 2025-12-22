@@ -41,11 +41,20 @@ Tools: Git, GitHub, VS Code
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
 
-![MIAN YASIR's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+
+
 
 <br>
 ⭐️ From [Ahmad Yasirdev](https://github.com/ahmadyasirdev/)
