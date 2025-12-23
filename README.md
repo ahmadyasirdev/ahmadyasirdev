@@ -1,8 +1,12 @@
-<h1 align="center">
+<h1 align="centre">
   <a href="https://git.io/typing-svg">
-    <img src="readme-typing-svg.demolab.com+👋,+I'm+a+MERN+Stack+Developer;And+a+Flutter+Developer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&colour=36BCF7&centre=true&vCentre=true&width=600&lines=👋+I'm+a+MERN+Stack+Developer;And+a+Flutter+Developer;Building+Scalable+Web+%26+Mobile+Apps"
+      alt="Typing SVG"
+    />
   </a>
 </h1>
+
 
 
 
