@@ -1,11 +1,7 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+I'm+a+MERN+Stack+Developer;And+a+Flutter+Developer;Building+Scalable+Web+%26+Mobile+Apps"
-      alt="Typing SVG"
-    />
-  </a>
-</h1>
+<h1 align="center"> Hi 👋 MERN Stack & Flutter Developer</h1>
+<p align="center">React • Node.js • MongoDB • Flutter</p>
+
+
 
 
 
