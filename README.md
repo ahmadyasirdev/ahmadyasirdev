@@ -1,4 +1,5 @@
-<h1 align="center"> Hi 👋 MERN Stack & Flutter Developer</h1>
+<h1 align="center">Hi 👋 I’m a Full-Stack, MERN Stack & Flutter Developer</h1>
+
 <p align="center">React • Node.js • MongoDB • Flutter</p>
 
 
